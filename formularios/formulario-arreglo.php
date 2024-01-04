@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario con Arreglos</title>
+    <title>Formulario con Arreglos, radios y múltiples imágenes</title>
 </head>
 <body>
   <form action="./server-arreglo.php" method="post">
