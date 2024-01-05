@@ -8,7 +8,7 @@ function validateForm($name, $email, $subject, $message){
 
 
     if (isset($_POST["form"])) {
-        if (validate($_POST["name"], $_POST["email"], $_POST["subject"],
+        if (validateForm($_POST["name"], $_POST["email"], $_POST["subject"],
         $_POST["message"] )) {
             
             // Sanitizando los datos
